@@ -1,0 +1,31 @@
+
+Voici des exemples de jeu "Guess The Number".
+
+La version 1.0 reprend tout ce que l'on doit connaître pour l'examen de DEV1.
+(Enfin il me semble)
+
+====================================================================================
+
+ATTENTION, pour exécuter une version du jeu il faut procéder de la manière suivante:
+
+1. Ouvrir le dossier de la version souhaitée (par exemple "v1.0")
+
+2. Ouvrir un terminal dans ce dossier (PAS DANS "GTN"!)
+
+3. Taper cette commande:
+    java GTN.game
+
+====================================================================================
+
+ATTENTION, pour ouvrir ce projet dans VScode, il faut appliquer la même méthode:
+
+1. Ouvrir le dossier de la version souhaitée (par exemple "v1.0")
+
+2. Ouvrir un terminal dans ce dossier (PAS DANS "GTN"!)
+
+3. Taper cette commande:
+    code .
+
+====================================================================================
+
+(On ne doit pas entrer dans le dossier GTN car il fait partie du package)
